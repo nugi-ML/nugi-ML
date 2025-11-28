@@ -2,8 +2,8 @@
 
 Perkenalkan nama saya **Nugie Saputra**.<br>
 
-Saya seorang **Machine Learning Engineer** di ....<br>
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](www.linkedin.com/in/nugie-saputra-6b77b0376/) ku ya.
+Saya seorang **Enthusiast Machine Learning Engineer** <br>
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/nugie-saputra-6b77b0376/) ku ya.
 
 ### Github Statistic
 
