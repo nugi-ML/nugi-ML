@@ -47,7 +47,6 @@ I am a **Physics Student** with a profound passion for **Artificial Intelligence
 
 ### Languages
 <img src="https://img.shields.io/badge/Python-007ec6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-<img src="https://img.shields.io/badge/C++-007ec6?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
 
 ### Machine Learning & Data Science
 <img src="https://img.shields.io/badge/PyTorch-007ec6?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
@@ -72,20 +71,20 @@ I am a **Physics Student** with a profound passion for **Artificial Intelligence
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=<USERNAME>&theme=flat&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
+[![Trophies](https://github-profile-trophy.vercel.app/?username=nugi-ML&theme=flat&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=<USERNAME>&show_icons=true&theme=transparent&hide_border=true&title_color=007ec6&icon_color=007ec6&text_color=777777" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=<USERNAME>&theme=transparent&hide_border=true&ring=007ec6&fire=007ec6&currStreakLabel=007ec6&labels=777777&dates=777777" alt="GitHub Streak" width="48%" />
+<img src="https://github-readme-stats.vercel.app/api?username=nugi-ML&show_icons=true&theme=transparent&hide_border=true&title_color=007ec6&icon_color=007ec6&text_color=777777" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nugi-ML&theme=transparent&hide_border=true&ring=007ec6&fire=007ec6&currStreakLabel=007ec6&labels=777777&dates=777777" alt="GitHub Streak" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=<USERNAME>&layout=compact&theme=transparent&hide_border=true&title_color=007ec6&text_color=777777" alt="Top Languages" width="60%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nugi-ML&layout=compact&theme=transparent&hide_border=true&title_color=007ec6&text_color=777777" alt="Top Languages" width="60%" />
 
 <br/>
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=<USERNAME>&theme=transparent&hide_border=true&color=007ec6&line=007ec6&point=000000&area=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nugi-ML&theme=transparent&hide_border=true&color=007ec6&line=007ec6&point=000000&area=true)
 
 </div>
 
