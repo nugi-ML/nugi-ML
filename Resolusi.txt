@@ -1,8 +1,0 @@
-Resolusi selama 1 tahu kedepan:
-- Menyelesaikan skripsi sebelum 21 Desember 2025
-- Belajar python sampai expert
-- Menjadi Machine Learning Developer
-- Magang menjadi seorang machine learing engginer
-- Belajar full-stack webdev
-- Bekerja sebagai machine learing developer
-- Persiapan beasiswa S2 (Sains Komputasi atau Kecerdasan Buatan)
