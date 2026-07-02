@@ -71,8 +71,6 @@ I am a **Physics Student** with a profound passion for **Artificial Intelligence
 
 <div align="center">
 
-[![Trophies](https://github-profile-trophy.vercel.app/?username=nugi-ML&theme=flat&column=7&margin-w=15&margin-h=15&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
-
 <br/>
 
 <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nugi-ML&show_icons=true&theme=transparent&hide_border=true&title_color=007ec6&icon_color=007ec6&text_color=777777" alt="GitHub Stats" width="48%" />
@@ -87,38 +85,6 @@ I am a **Physics Student** with a profound passion for **Artificial Intelligence
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nugi-ML&theme=transparent&hide_border=true&color=007ec6&line=007ec6&point=000000&area=true)
 
 </div>
-
----
-
-## 🚀 Featured Projects & Research
-
-| Project Name | Description | Tech Stack |
-| :--- | :--- | :--- |
-| **[Project 1 Title](#)** | Brief description of a physics simulation or deep learning model. Highlighting the problem solved. | `Python`, `PyTorch` |
-| **[Project 2 Title](#)** | A data science pipeline analyzing physical datasets or astronomical data. | `Python`, `Pandas`, `Scikit-Learn` |
-| **[Project 3 Title](#)** | Computer vision algorithm applied to microscopic images or similar research area. | `TensorFlow`, `OpenCV` |
-
-*(Feel free to check out my repositories below for more code and scientific implementations!)*
-
----
-
-## 📫 Let's Connect!
-
-<div align="center">
-  <a href="mailto:<EMAIL>">
-    <img src="https://img.shields.io/badge/Email-007ec6?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/<LINKEDIN>">
-    <img src="https://img.shields.io/badge/LinkedIn-007ec6?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://kaggle.com/<KAGGLE>">
-    <img src="https://img.shields.io/badge/Kaggle-007ec6?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="<PORTFOLIO>">
-    <img src="https://img.shields.io/badge/Portfolio-007ec6?style=flat-square&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</div>
-
 <br/>
 <div align="center">
   <i>"I think it is possible for ordinary people to choose to be extraordinary." - Elon Musk</i>
