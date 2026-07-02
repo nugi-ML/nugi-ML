@@ -5,7 +5,7 @@
 ### 🌌 Physics Student | 🤖 Machine Learning Engineer | 🧠 Deep Learning Enthusiast 
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=<USERNAME>&label=Profile%20Views&color=007ec6&style=flat" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=nugi-ML&label=Profile%20Views&color=007ec6&style=flat" alt="Visitor Count" />
 </p>
 
 <p align="center">
@@ -75,12 +75,12 @@ I am a **Physics Student** with a profound passion for **Artificial Intelligence
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=nugi-ML&show_icons=true&theme=transparent&hide_border=true&title_color=007ec6&icon_color=007ec6&text_color=777777" alt="GitHub Stats" width="48%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nugi-ML&show_icons=true&theme=transparent&hide_border=true&title_color=007ec6&icon_color=007ec6&text_color=777777" alt="GitHub Stats" width="48%" />
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nugi-ML&theme=transparent&hide_border=true&ring=007ec6&fire=007ec6&currStreakLabel=007ec6&labels=777777&dates=777777" alt="GitHub Streak" width="48%" />
 
 <br/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nugi-ML&layout=compact&theme=transparent&hide_border=true&title_color=007ec6&text_color=777777" alt="Top Languages" width="60%" />
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nugi-ML&layout=compact&theme=transparent&hide_border=true&title_color=007ec6&text_color=777777" alt="Top Languages" width="60%" />
 
 <br/>
 
