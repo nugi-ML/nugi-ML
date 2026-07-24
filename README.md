@@ -1,91 +1,46 @@
-<div align="center">
+# Hi there, I'm Nugie Saputra 👋 
 
-# Hello there, I'm <USERNAME>! 👋
+🎓 **Physics Student at Tanjungpura University** | 🤖 **Aspiring Machine Learning Engineer**
 
-### 🌌 Physics Student | 🤖 Machine Learning Engineer | 🧠 Deep Learning Enthusiast 
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nugi-ML&label=Profile%20Views&color=007ec6&style=flat" alt="Visitor Count" />
-</p>
-
-<p align="center">
-  <a href="mailto:<EMAIL>">
-    <img src="https://img.shields.io/badge/Email-007ec6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://linkedin.com/in/<LINKEDIN>">
-    <img src="https://img.shields.io/badge/LinkedIn-007ec6?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://kaggle.com/<KAGGLE>">
-    <img src="https://img.shields.io/badge/Kaggle-007ec6?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
-  </a>
-  <a href="<PORTFOLIO>">
-    <img src="https://img.shields.io/badge/Portfolio-007ec6?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
-  </a>
-</p>
-
-*Bridging the gap between the fundamental laws of nature and artificial intelligence.*
-
-</div>
+I am a Physics undergraduate passionate about solving complex real-world problems by bridging the gap between **Computational Physics** and **Machine Learning / Artificial Intelligence**.
 
 ---
 
-## 👨‍🔬 About Me
-
-I am a **Physics Student** with a profound passion for **Artificial Intelligence, Machine Learning, and Scientific Computing**. My academic background in physics provides me with a strong foundation in mathematics, analytical problem-solving, and computational methods, which I actively apply to develop intelligent systems and data-driven solutions. I am a highly **Research-Oriented** individual and an active **Open Source Contributor**.
-
-- 🔭 **Currently focusing on:** Deep Learning applications in scientific research, Computer Vision, and Natural Language Processing.
-- 🌱 **Currently learning:** Advanced Neural Network Architectures (Transformers, Diffusion Models), Optimization Algorithms, and High-Performance Computing.
-- 🔬 **Research Interests:** AI for Physics, Computational Physics, Quantum Machine Learning, and Complex Systems.
-- 👯 **Open for collaboration:** Open Source Projects, AI/ML Research, and Data Science hackathons.
-- ⚡ **Fun fact:** I love finding analogies between physical phenomena and machine learning algorithms (like statistical mechanics and neural networks!).
+### 🚀 About Me
+- 🏫 Currently studying Physics at **Universitas Tanjungpura**
+- 🎯 Goal: Becoming a skilled **Machine Learning Engineer**
+- 🔭 Working on: Building core Machine Learning foundations & Computational Physics projects
+- 💡 Interest Areas: Data Analysis, Predictive Modeling, Deep Learning, and Computational Physics
 
 ---
 
-## 🛠️ Tech Stack & Tools
+### 🛠️ Tech Stack & Tools
 
-<div align="center">
+**Languages & Core**  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![LaTeX](https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=LaTeX&logoColor=white)
 
-### Languages
-<img src="https://img.shields.io/badge/Python-007ec6?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+**Data Science & Machine Learning**  
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Scikit-Learn](https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
 
-### Machine Learning & Data Science
-<img src="https://img.shields.io/badge/PyTorch-007ec6?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-<img src="https://img.shields.io/badge/TensorFlow-007ec6?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-<img src="https://img.shields.io/badge/scikit--learn-007ec6?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-learn" />
-<img src="https://img.shields.io/badge/NumPy-007ec6?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
-<img src="https://img.shields.io/badge/Pandas-007ec6?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-<img src="https://img.shields.io/badge/Matplotlib-007ec6?style=for-the-badge&logo=plotly&logoColor=white" alt="Matplotlib" />
-
-### Tools & Environments
-<img src="https://img.shields.io/badge/Jupyter-007ec6?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter" />
-<img src="https://img.shields.io/badge/Linux-007ec6?style=for-the-badge&logo=linux&logoColor=white" alt="Linux" />
-<img src="https://img.shields.io/badge/Git-007ec6?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-007ec6?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/VS_Code-007ec6?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-
-</div>
+**Tools & Environment**  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
 
 ---
 
-## 📈 GitHub Analytics
+### 📚 Learning Roadmap
 
-<div align="center">
+- [x] **Python Fundamentals**
+- [x] **Data Manipulation:** NumPy & Pandas
+- [x] **Data Visualization:** Matplotlib & Seaborn
+- [🔄] **Classical Machine Learning:** Scikit-Learn *(In Progress)*
+- [ ] **Deep Learning:** PyTorch Framework
+- [ ] **Computational Physics Simulation & Modeling**
 
-<br/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=nugi-ML&show_icons=true&theme=transparent&hide_border=true&title_color=007ec6&icon_color=007ec6&text_color=777777" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nugi-ML&theme=transparent&hide_border=true&ring=007ec6&fire=007ec6&currStreakLabel=007ec6&labels=777777&dates=777777" alt="GitHub Streak" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=nugi-ML&layout=compact&theme=transparent&hide_border=true&title_color=007ec6&text_color=777777" alt="Top Languages" width="60%" />
-
-<br/>
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=nugi-ML&theme=transparent&hide_border=true&color=007ec6&line=007ec6&point=000000&area=true)
-
-</div>
-<br/>
-<div align="center">
-  <i>"I think it is possible for ordinary people to choose to be extraordinary." - Elon Musk</i>
-</div>
+---
