@@ -39,7 +39,7 @@ I am a Physics undergraduate passionate about solving complex real-world problem
 - [x] **Python Fundamentals**
 - [x] **Data Manipulation:** NumPy & Pandas
 - [x] **Data Visualization:** Matplotlib & Seaborn
-- [x] **Classical Machine Learning:** Scikit-Learn *(In Progress)*
+- [x] **Classical Machine Learning:** Scikit-Learn
 - [🔄] **Deep Learning:** PyTorch Framework
 - [🔄] **Computational Physics Simulation & Modeling**
 
